@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/book"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 130001 }, "model": "sct:pc-1/pc-1" },
+        { "predicate": { "custom_model_data": 130002 }, "model": "sct:f/f" },
+        { "predicate": { "custom_model_data": 130100 }, "model": "sct:jishizhe/defaut" },
+        { "predicate": { "custom_model_data": 130101 }, "model": "sct:jishizhe/sitting" }
+    ]
+}

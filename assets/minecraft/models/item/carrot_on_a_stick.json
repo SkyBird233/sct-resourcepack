@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "minecraft:item/carrot_on_a_stick"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 130001 }, "model": "sct:sword_fire/ready" },
+        { "predicate": { "custom_model_data": 130002 }, "model": "sct:sword_fire/skill" },
+        { "predicate": { "custom_model_data": 130003 }, "model": "sct:sword_fire/cd" }
+    ]
+}
