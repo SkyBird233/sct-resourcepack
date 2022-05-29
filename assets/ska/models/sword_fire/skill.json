@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "sct:sword_fire/skill"
+		"layer0": "ska:sword_fire/skill"
 	}
 }

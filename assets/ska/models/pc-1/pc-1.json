@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "sct:pc-1/pc-1",
-		"particle": "sct:pc-1/pc-1"
+		"0": "ska:pc-1/pc-1",
+		"particle": "ska:pc-1/pc-1"
 	},
 	"elements": [
 		{

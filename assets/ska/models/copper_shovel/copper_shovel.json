@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "sct:copper_shovel/copper_shovel"
+    "layer0": "ska:copper_shovel/copper_shovel"
   }
 }

@@ -2,7 +2,7 @@
     "providers":[
         {
             "type":"bitmap",
-            "file":"sct:font/a.png",
+            "file":"ska:font/a.png",
             "ascent":160,
             "height":180,
             "chars":[
@@ -11,7 +11,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/b.png",
+            "file":"ska:font/b.png",
             "ascent":160,
             "height":180,
             "chars":[
@@ -20,7 +20,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/c.png",
+            "file":"ska:font/c.png",
             "ascent":70,
             "height":180,
             "chars":[
@@ -29,7 +29,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/d.png",
+            "file":"ska:font/d.png",
             "ascent":70,
             "height":180,
             "chars":[
@@ -38,7 +38,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/highlight.png",
+            "file":"ska:font/highlight.png",
             "ascent":104,
             "height":180,
             "chars":[
@@ -47,7 +47,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/highlight.png",
+            "file":"ska:font/highlight.png",
             "ascent":71,
             "height":180,
             "chars":[
@@ -56,7 +56,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/highlight.png",
+            "file":"ska:font/highlight.png",
             "ascent":58,
             "height":180,
             "chars":[
@@ -65,7 +65,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/highlight.png",
+            "file":"ska:font/highlight.png",
             "ascent":53,
             "height":180,
             "chars":[
@@ -74,7 +74,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/highlight.png",
+            "file":"ska:font/highlight.png",
             "ascent":47,
             "height":180,
             "chars":[
@@ -83,7 +83,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/highlight.png",
+            "file":"ska:font/highlight.png",
             "ascent":2,
             "height":180,
             "chars":[
@@ -92,7 +92,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/banner1.png",
+            "file":"ska:font/banner1.png",
             "ascent":25,
             "height":90,
             "chars":[
@@ -101,7 +101,7 @@
         },
         {
             "type":"bitmap",
-            "file":"sct:font/bubble1.png",
+            "file":"ska:font/bubble1.png",
             "ascent":11,
             "height":18,
             "chars":[
