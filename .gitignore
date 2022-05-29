@@ -1,0 +1,5 @@
+*~
+*.bat
+.vscode
+*.code-workspace
+*.log
