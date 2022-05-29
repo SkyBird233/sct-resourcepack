@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "sct:sword_fire/cd"
+      "layer0": "ska:sword_fire/cd"
     }
 }

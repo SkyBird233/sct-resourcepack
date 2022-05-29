@@ -4,10 +4,10 @@
         "layer0": "minecraft:item/book"
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 130001 }, "model": "sct:pc-1/pc-1" },
-        { "predicate": { "custom_model_data": 130002 }, "model": "sct:f/f" },
-        { "predicate": { "custom_model_data": 130003 }, "model": "sct:copper_shovel/copper_shovel" },
-        { "predicate": { "custom_model_data": 130100 }, "model": "sct:jishizhe/defaut" },
-        { "predicate": { "custom_model_data": 130101 }, "model": "sct:jishizhe/sitting" }
+        { "predicate": { "custom_model_data": 130001 }, "model": "ska:pc-1/pc-1" },
+        { "predicate": { "custom_model_data": 130002 }, "model": "ska:f/f" },
+        { "predicate": { "custom_model_data": 130003 }, "model": "ska:copper_shovel/copper_shovel" },
+        { "predicate": { "custom_model_data": 130100 }, "model": "ska:jishizhe/defaut" },
+        { "predicate": { "custom_model_data": 130101 }, "model": "ska:jishizhe/sitting" }
     ]
 }
